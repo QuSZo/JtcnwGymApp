@@ -18,6 +18,7 @@ We have a vision and purpose, so let's talk about the technologies I'll be using
 To sum up, I'm working on creating a web application for tracking gym workouts using .NET and React. ***This is where the journey begins.***
 
 ## Database structure
+[DbDiagram(https://dbdiagram.io/d/66aa9c038b4bb5230ee42906)
 ![Database structure image](assets/dbStr.png)
 
 
