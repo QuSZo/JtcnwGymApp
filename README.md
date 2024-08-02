@@ -20,7 +20,7 @@ To sum up, I'm working on creating a web application for tracking gym workouts u
 ## Database structure
 Here is the link to [DbDiagram](https://dbdiagram.io/d/66aa9c038b4bb5230ee42906)
 <br/>
-![Database structure image](assets/dbStr.png)
+![Database structure image](assets/dbStructure.png)
 
 
 
