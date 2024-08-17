@@ -20,6 +20,10 @@
 \begin{document}
 \maketitle
 
+\begin{abstract}
+      Next sections: 1. TDD - Test-driven development  2. CQRS
+\end{abstract}
+
 \section{Spotkanie z biznesem}
       Pierwszym etapem stworzenia aplikacji jest konfrontacja IT z Biznesem. W naszym wypadku Biznesem mogą być klienci czyli zewnętrzne firmy lub inne działy wewnątrz firmy. Biznes przychodzi z problemem, przedstawia swoje cele i wymagania. Dział IT musi więc dobrze rozumieć cele i potrzeby biznesowe, natomiast biznes musi wiedzieć, czy organizacja dysponuje zasobami niezbędnymi do ich realizacji.[https://cyfrowa.rp.pl/technologie/art40278241-konieczna-wspolpraca-miedzy-it-i-biznesem] Łącznikiem między Binzesem, a IT jest analityk biznesowy, który ma wiedzę techniczną oraz jest w stanie w przejrzysty sposób zrozumieć wymagania biznesu.
 
@@ -44,12 +48,30 @@
             \item Różowy: Problemy (ang. Issues)
       \end{itemize}
 
-      Sam proces Event Stormingu możemy zacząć od zdarzeń jakie będą występować w systemie. Oto one:
-
-      
-\section{TDD - Test-driven development}
-
-\section{CQRS}
+      Event Storming możemy zacząć od procesu zwanego "Big Picture". Proces ten rozpoczynamy od zdefiniowania zdarzeń czyli pomarańczowych karteczek. Aby zdarzenie było prawidłowe musi spełniać następujące wymagania:
+      \begin{itemize}
+            \item musi być opisane w czasie przeszłym
+            \item opisuje zmianę w systemie
+            \item występuje w konkretnym momencie w czasie
+      \end{itemize}
+      W początkowym etapie definiowania zdarzeń nie jest dla nas istotne miejsce ich występowania na osi czasu. Faza definiowania zdarzeń bez ich umieszczania na osi czasu nazywa się chaotyczną eksploracją. Oto początkowo zdefioniowane zdarzenia:
+      \begin{figure}[h]
+            \centering
+            \includegraphics[width=0.9\linewidth]{bigPicture1.jpg}
+            \caption{Chaotyczna eksploracja}
+      \end{figure}
+      Po zdefiniowaniu zdarzeń można poukładać je na osi czasu. Zdarzenia mogące występować w tym samym czasie znajdują się na jednym poziomie (w tej samej kolumnie). Podczas porządkowania zdarzeń na osi czasu mogą pojawić się nowe zdarzenia. Możemy dodawać tutaj również nasze problemy/pytania związane z danym zdarzeniem. Możemy dodać złotą taśmę z nazwą procesu dotyczącą kilku zdarzeń. Jeżeli zdarzenie jest zbyt ogólne powinniśmy je rozbić na kilka mniejszych zdarzeń.
+      \begin{figure}[h]
+            \centering
+            \includegraphics[width=0.9\linewidth]{bigPicture3.jpg}
+            \caption{Porządkowanie linii czasu}
+      \end{figure}
+      Po etapie big picture możemy zacząć fazę zwaną "Process level". 
+      \begin{figure}[h]
+            \centering
+            \includegraphics[width=0.9\linewidth]{ProcessLevel.jpg}
+            \caption{Process level}
+      \end{figure}
 
 
 \end{document}
