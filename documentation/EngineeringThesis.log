@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.4)  8 AUG 2024 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.4)  17 AUG 2024 15:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -392,7 +392,9 @@ LaTeX Font Info:    External font `plex10' loaded for size
 
 [1
 
-{C:/Users/KuSZo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/pl/plrm.enc}] (EngineeringThesis.aux)
+{C:/Users/KuSZo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/pl/plrm.enc}]
+
+[2] (EngineeringThesis.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -401,17 +403,17 @@ Package rerunfilecheck Info: File `EngineeringThesis.out' has not changed.
 (rerunfilecheck)             Checksum: D6A0A6F0FFADE57F28B65F1E7E7904C6;409.
  ) 
 Here is how much of TeX's memory you used:
- 9969 strings out of 473904
- 155839 string characters out of 5726601
+ 9970 strings out of 473904
+ 155845 string characters out of 5726601
  1942908 words of memory out of 5000000
  32706 multiletter control sequences out of 15000+600000
  564084 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,1036b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,1245b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\KuSZo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plbx12.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr10.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr12.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr17.pfb>
-Output written on EngineeringThesis.pdf (1 page, 47948 bytes).
+Output written on EngineeringThesis.pdf (2 pages, 48921 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
+ 54 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
