@@ -55,23 +55,45 @@
             \item występuje w konkretnym momencie w czasie
       \end{itemize}
       W początkowym etapie definiowania zdarzeń nie jest dla nas istotne miejsce ich występowania na osi czasu. Faza definiowania zdarzeń bez ich umieszczania na osi czasu nazywa się chaotyczną eksploracją. Oto początkowo zdefioniowane zdarzenia:
-      \begin{figure}[h]
+      \begin{figure}
             \centering
             \includegraphics[width=0.9\linewidth]{bigPicture1.jpg}
             \caption{Chaotyczna eksploracja}
       \end{figure}
       Po zdefiniowaniu zdarzeń można poukładać je na osi czasu. Zdarzenia mogące występować w tym samym czasie znajdują się na jednym poziomie (w tej samej kolumnie). Podczas porządkowania zdarzeń na osi czasu mogą pojawić się nowe zdarzenia. Możemy dodawać tutaj również nasze problemy/pytania związane z danym zdarzeniem. Możemy dodać złotą taśmę z nazwą procesu dotyczącą kilku zdarzeń. Jeżeli zdarzenie jest zbyt ogólne powinniśmy je rozbić na kilka mniejszych zdarzeń.
-      \begin{figure}[h]
+      \begin{figure}
             \centering
             \includegraphics[width=0.9\linewidth]{bigPicture3.jpg}
             \caption{Porządkowanie linii czasu}
       \end{figure}
       Po etapie big picture możemy zacząć fazę zwaną "Process level". 
-      \begin{figure}[h]
+      \begin{figure}
             \centering
             \includegraphics[width=0.9\linewidth]{ProcessLevel.jpg}
             \caption{Process level}
       \end{figure}
 
+\newpage
+\section{TDD - Test-driven development}
+      Klasyczne tworzenie oprogramowania rozpoczynamy od pisania dowolnej funkcjonalności. W naszej aplikacji może to być funkcjonalność stworzenia nowego treningu. Po napisaniu takiej funkcjonalności można ją przetestować ręcznie (manualne testowanie oprogramowania przy użyciu scenariuszy testowych) lub przy użyciu skryptów (testy automatyczne np. testy jednostkowe). Jednak w TDD testy jednostkowe piszemy przed napisaniem funkcjonalności. Takie podejście ma wiele zalet:
+      \begin{itemize}
+            \item Lepsze zrozumienie jak ma działać dana funkcjonalność: wcześniejsze napisanie testów wymusza przeanalizowanie przyszłej funkcjonalności
+            \item Większa dbałość o architekturę modularność i czytelność kodu: duże metody bardzo trudno się testuje dlatego testy wymuszają pisanie bardziej modularnego i bardziej czytelnego kodu
+            \item Mogą stanowić dokumentację: dobrze nazwane testy określają za co odpowiedzialna jest dana funkcjonalność
+            \item Łatwiejsze utrzymanie i rozwijanie aplikacji: po dodaniu nowej funkcjonalności możemy użyć wcześniejszych testów do sprawdzenia czy nowe fragmenty kodu nie zepsuły działania wszystkich pozostałych funkcjonalności
+            \item Pewność zrealizowania wymagań: dzięki dobrze napisanym testom możemy być pewni, że nasza aplkacja realizuje wszystkie założenia bez wykraczania poza wymagania 
+      \end{itemize}
+      Jeżeli znamy zalety tego rozwiązania przejdźmy do zasad:
+      \begin{itemize}
+            \item przed napisaniem kodu produkcyjnego musisz napisać nieprzechodzący test
+            \item nie można napisać większego testu niż jest to potrzebne tylko po to aby test nie przeszedł
+            \item nie można napisać więcej kodu produkcynego niż jest to potrzebne tylko po to aby test przeszedł
+      \end{itemize}
+      TDD to cykliczny proces, który wygląda następująco:
+      \begin{figure}
+            \centering
+            \includegraphics[width=0.9\linewidth]{tdd.jpg}
+            \caption{Cykl TDD}
+      \end{figure}
 
 \end{document}
