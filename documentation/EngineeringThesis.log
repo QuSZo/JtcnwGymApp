@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.4)  18 AUG 2024 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.4)  23 DEC 2024 15:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -278,33 +278,63 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip54
+) (C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count295
+\multirow@dima=\skip56
+\bigstrutjot=\dimen165
+) (C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+ (C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen166
+\ar@mcellbox=\box54
+\extrarowheight=\dimen167
+\NC@list=\toks26
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box55
+)
+\TX@col@width=\dimen168
+\TX@old@table=\dimen169
+\TX@old@col=\dimen170
+\TX@target=\dimen171
+\TX@delta=\dimen172
+\TX@cols=\count296
+\TX@ftn=\toks27
+) (C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen173
+\c@nlinenum=\count297
+\TeXr@lab=\toks28
 ) (C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count295
-\l__pdf_internal_box=\box54
+\l__color_backend_stack_int=\count298
+\l__pdf_internal_box=\box56
 ) (EngineeringThesis.aux)
 \openout1 = `EngineeringThesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -342,17 +372,17 @@ LaTeX Font Info:    ... okay on input line 20.
 
 (C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count296
-\scratchdimen=\dimen165
-\scratchbox=\box55
-\nofMPsegments=\count297
-\nofMParguments=\count298
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count299
-\MPscratchDim=\dimen166
-\MPnumerator=\count300
-\makeMPintoPDFobject=\count301
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count299
+\scratchdimen=\dimen174
+\scratchbox=\box57
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen175
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks30
 ) (C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -365,81 +395,96 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
  (C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 20.
+Package hyperref Info: Link coloring ON on input line 27.
  (EngineeringThesis.out) (EngineeringThesis.out)
 \@outlinefile=\write3
 \openout3 = `EngineeringThesis.out'.
 
-LaTeX Font Info:    Trying to load font information for OML+plm on input line 22.
+LaTeX Font Info:    Trying to load font information for OML+plm on input line 29.
  (C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex/latex/polski\omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 22.
+LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 29.
  (C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex/latex/polski\omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Trying to load font information for OMX+plex on input line 22.
+LaTeX Font Info:    Trying to load font information for OMX+plex on input line 29.
  (C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex/latex/polski\omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 22.
+(Font)              <12> on input line 29.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 29.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 22.
+(Font)              <6> on input line 29.
 
 
 [1
 
 {C:/Users/KuSZo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/pl/plrm.enc}]
-<bigPicture1.jpg, id=23, 798.73407pt x 552.56438pt>
-File: bigPicture1.jpg Graphic file (type jpg)
-<use bigPicture1.jpg>
-Package pdftex.def Info: bigPicture1.jpg  used on input line 60.
-(pdftex.def)             Requested size: 399.21791pt x 276.18033pt.
-<bigPicture3.jpg, id=24, 816.80156pt x 490.08093pt>
-File: bigPicture3.jpg Graphic file (type jpg)
-<use bigPicture3.jpg>
-Package pdftex.def Info: bigPicture3.jpg  used on input line 66.
-(pdftex.def)             Requested size: 399.21791pt x 239.53604pt.
-<ProcessLevel.jpg, id=25, 3828.3025pt x 1644.1425pt>
-File: ProcessLevel.jpg Graphic file (type jpg)
-<use ProcessLevel.jpg>
-Package pdftex.def Info: ProcessLevel.jpg  used on input line 72.
-(pdftex.def)             Requested size: 399.21791pt x 171.4484pt.
+
+[2]
+
+[3]
+
+[4]
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <10> on input line 136.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <7> on input line 136.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <5> on input line 136.
 
 
-[2 <./bigPicture1.jpg>]
+[5]
 
-[3 <./bigPicture3.jpg> <./ProcessLevel.jpg>]
-<tdd.jpg, id=37, 702.625pt x 351.3125pt>
-File: tdd.jpg Graphic file (type jpg)
-<use tdd.jpg>
-Package pdftex.def Info: tdd.jpg  used on input line 95.
-(pdftex.def)             Requested size: 399.21791pt x 199.61229pt.
+[6]
 
+[7]
 
-[4 <./tdd.jpg>] (EngineeringThesis.aux)
+[8]
+<Logowanie.png, id=164, 1445.4pt x 1027.84pt>
+File: Logowanie.png Graphic file (type png)
+<use Logowanie.png>
+Package pdftex.def Info: Logowanie.png  used on input line 294.
+(pdftex.def)             Requested size: 320.08421pt x 227.62204pt.
+<Tworzenie konta.png, id=166, 1445.4pt x 1027.84pt>
+File: Tworzenie konta.png Graphic file (type png)
+<use Tworzenie konta.png>
+Package pdftex.def Info: Tworzenie konta.png  used on input line 299.
+(pdftex.def)             Requested size: 320.08421pt x 227.62204pt.
+<Trening.png, id=167, 1445.4pt x 1027.84pt>
+File: Trening.png Graphic file (type png)
+<use Trening.png>
+Package pdftex.def Info: Trening.png  used on input line 304.
+(pdftex.def)             Requested size: 320.08421pt x 227.62204pt.
+ (EngineeringThesis.bbl)
+
+[9{C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/pl/plit.enc}]
+
+[10 <./Logowanie.png> <./Tworzenie konta.png>]
+
+[11 <./Trening.png>] (EngineeringThesis.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `EngineeringThesis.out' has not changed.
-(rerunfilecheck)             Checksum: 24EF61B1EAD733E631AD3F7478796E1B;346.
+(rerunfilecheck)             Checksum: 9BAC245EEE1D4EE23A02B10EF581D6E0;2715.
  ) 
 Here is how much of TeX's memory you used:
- 10011 strings out of 473904
- 156595 string characters out of 5726601
- 1942908 words of memory out of 5000000
- 32740 multiletter control sequences out of 15000+600000
- 565085 words of font info for 53 fonts, out of 8000000 for 9000
+ 10497 strings out of 473904
+ 163341 string characters out of 5726601
+ 1947908 words of memory out of 5000000
+ 33117 multiletter control sequences out of 15000+600000
+ 569584 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,1245b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\KuSZo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plbx12.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plbx9.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr10.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr12.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr17.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr9.pfb>
-Output written on EngineeringThesis.pdf (4 pages, 574557 bytes).
+ 75i,19n,79p,1065b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\KuSZo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plbx10.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plbx12.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plbx9.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr10.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr12.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr17.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr9.pfb><C:/Users/KuSZo/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plti10.pfb>
+Output written on EngineeringThesis.pdf (11 pages, 3532864 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 37 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 251 PDF objects out of 1000 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
 

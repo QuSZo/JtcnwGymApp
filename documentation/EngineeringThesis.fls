@@ -104,6 +104,14 @@ INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\reru
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\makecell\makecell.sty
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\makecell\makecell.sty
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\EngineeringThesis.aux
@@ -158,42 +166,52 @@ INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plr9.tfm
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plbx9.tfm
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plr12.tfm
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plbx12.tfm
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plbx12.tfm
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plbx10.tfm
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\KuSZo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\pl\plrm.enc
-INPUT .\bigPicture1.jpg
-INPUT .\bigPicture1.jpg
-INPUT .\bigPicture1.jpg
-INPUT .\bigPicture1.jpg
-INPUT .\bigPicture1.jpg
-INPUT .\bigPicture1.jpg
-INPUT .\bigPicture1.jpg
-INPUT .\bigPicture3.jpg
-INPUT .\bigPicture3.jpg
-INPUT .\bigPicture3.jpg
-INPUT .\bigPicture3.jpg
-INPUT .\bigPicture3.jpg
-INPUT .\bigPicture3.jpg
-INPUT .\bigPicture3.jpg
-INPUT .\ProcessLevel.jpg
-INPUT .\ProcessLevel.jpg
-INPUT .\ProcessLevel.jpg
-INPUT .\ProcessLevel.jpg
-INPUT .\ProcessLevel.jpg
-INPUT .\ProcessLevel.jpg
-INPUT .\ProcessLevel.jpg
-INPUT .\tdd.jpg
-INPUT .\tdd.jpg
-INPUT .\tdd.jpg
-INPUT .\tdd.jpg
-INPUT .\tdd.jpg
-INPUT .\tdd.jpg
-INPUT .\tdd.jpg
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plr7.tfm
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plr5.tfm
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plmi10.tfm
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plmi7.tfm
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plmi5.tfm
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plsy10.tfm
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plsy7.tfm
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plsy5.tfm
+INPUT .\Logowanie.png
+INPUT .\Logowanie.png
+INPUT .\Logowanie.png
+INPUT .\Logowanie.png
+INPUT .\Logowanie.png
+INPUT .\Logowanie.png
+INPUT .\Logowanie.png
+INPUT .\Tworzenie konta.png
+INPUT .\Tworzenie konta.png
+INPUT .\Tworzenie konta.png
+INPUT .\Tworzenie konta.png
+INPUT .\Tworzenie konta.png
+INPUT .\Tworzenie konta.png
+INPUT .\Tworzenie konta.png
+INPUT .\Trening.png
+INPUT .\Trening.png
+INPUT .\Trening.png
+INPUT .\Trening.png
+INPUT .\Trening.png
+INPUT .\Trening.png
+INPUT .\Trening.png
+INPUT .\EngineeringThesis.bbl
+INPUT .\EngineeringThesis.bbl
+INPUT EngineeringThesis.bbl
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\pl\plti10.tfm
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\pl\plit.enc
 INPUT EngineeringThesis.aux
 INPUT .\EngineeringThesis.out
 INPUT .\EngineeringThesis.out
 INPUT C:\Users\KuSZo\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\KuSZo\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\type1\public\pl\plbx10.pfb
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\type1\public\pl\plbx10.pfb
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\type1\public\pl\plbx12.pfb
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\type1\public\pl\plbx12.pfb
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\type1\public\pl\plbx9.pfb
@@ -206,3 +224,5 @@ INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\type1\public\pl\plr17.p
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\type1\public\pl\plr17.pfb
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\type1\public\pl\plr9.pfb
 INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\type1\public\pl\plr9.pfb
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\type1\public\pl\plti10.pfb
+INPUT C:\Users\KuSZo\AppData\Local\Programs\MiKTeX\fonts\type1\public\pl\plti10.pfb

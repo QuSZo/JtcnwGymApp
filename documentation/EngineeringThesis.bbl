@@ -1,3 +1,8 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{FitNotesWeb}
+FitNotesApp.
+\newblock {\em Dokumentacja fitnotes}.
+\newblock Pobrane z https://www.fitnotesapp.com.
 
 \end{thebibliography}
